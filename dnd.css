@@ -1,0 +1,13 @@
+svg{
+    background: darkgray;
+    margin: 0%;
+}
+
+#header{
+    background: grey;
+    margin: 0%;
+}
+
+.point:hover{
+    cursor: pointer;
+}
